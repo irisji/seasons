@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/seasons/static/css/main.cbf9779e.chunk.css",
+    "main.js": "/seasons/static/js/main.28807b33.chunk.js",
+    "main.js.map": "/seasons/static/js/main.28807b33.chunk.js.map",
+    "runtime~main.js": "/seasons/static/js/runtime~main.fbc5b39b.js",
+    "runtime~main.js.map": "/seasons/static/js/runtime~main.fbc5b39b.js.map",
+    "static/js/2.2050718e.chunk.js": "/seasons/static/js/2.2050718e.chunk.js",
+    "static/js/2.2050718e.chunk.js.map": "/seasons/static/js/2.2050718e.chunk.js.map",
+    "index.html": "/seasons/index.html",
+    "precache-manifest.861de3f206e9dfc4c350dd49ffae7e59.js": "/seasons/precache-manifest.861de3f206e9dfc4c350dd49ffae7e59.js",
+    "service-worker.js": "/seasons/service-worker.js",
+    "static/css/main.cbf9779e.chunk.css.map": "/seasons/static/css/main.cbf9779e.chunk.css.map"
+  }
+}
